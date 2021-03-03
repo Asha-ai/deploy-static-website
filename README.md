@@ -1,4 +1,22 @@
 # RoadMap to deploy static website using HEROKU and NETLIFY
+
+# What is HEROKU
+Heroku is a cloud platform as a service supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go ect
+# What is Netlify
+Netlify is a San Francisco-based cloud computing company that offers hosting and serverless backend services for web applications and static websites.
+Both are PaaS services
+# Difference between HEROKU and Netlify
+Netlify is an automation platform for web projects that is focused toward frontend developers. The main features include continuous integration out of the box, free SSL, and CDN. The platform is great of the easy of use, fast deployment, and continuous integration.
+
+Heroku helps developers to build, run, and operate applications entirely in the cloud. It is focused toward backend development and allows web/mobile projects deployment. The main features include pre configured containers called Dynos and a fully-managed runtime environment. Advantages are the scalability and security protocols.
+simply
+– Netlify is focused towards frontend development
+– Heroku is focused towards backend developers
+– Netfliy is ideal for web projects
+– Heroku works with web and mobile apps
+– Netlify provides continuous integration out of the box
+– Heroku has the option to turn CI on
+
 ### Deploy static website using Heroku
 ### use simple PHP wrap as shown in index.php
 ### keep all your index.html page and other images in a folder and upload into github main branch 
@@ -29,6 +47,12 @@ dont change PHP wrapper code format
 some times images wont load since it's an free quota, make chnges in image size accordingly
 
 ## Deployed usisng Netlify
+Easy to deploy static website using Netlify - used same code, autorize github from netlify and deploy your website simply
+![netlify](https://user-images.githubusercontent.com/41565179/109802008-4197ff00-7c45-11eb-8d02-f9bb7bf379fd.png)
+
+
+This is the deployed web link
+
 ### https://nervous-hoover-993741.netlify.app/
 
 
