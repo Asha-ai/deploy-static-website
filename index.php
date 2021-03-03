@@ -1,1 +1,1 @@
-<img src = "fallowme1.png">
+<?php header( 'Location: /index.html' ) ; ?>
