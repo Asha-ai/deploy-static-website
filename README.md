@@ -1,4 +1,4 @@
-# RoadMap
+# RoadMap to deploy static website using HEROKU and NETLIFY
 ### Deploy static website using Heroku
 ### use simple PHP wrap as shown in index.php
 ### keep all your index.html page and other images in a folder and upload into github main branch 
@@ -27,5 +27,8 @@ click on Deploy button it will take few seconds/minuits tehn will give you web l
 Given simple HTML code - sincle I am focusing only on static webpage deployment - u can deploy your own webiste with out using my code
 dont change PHP wrapper code format
 some times images wont load since it's an free quota, make chnges in image size accordingly
+
+## Deployed usisng Netlify
+### https://nervous-hoover-993741.netlify.app/
 
 
