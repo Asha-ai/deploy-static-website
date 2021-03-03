@@ -1,4 +1,4 @@
-# RoadMap to deploy static website using HEROKU and NETLIFY
+# Roadmap to deploy static website using HEROKU and NETLIFY
 
 # What is HEROKU
 Heroku is a cloud platform as a service supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go ect
