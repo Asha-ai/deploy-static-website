@@ -8,4 +8,11 @@
 Just fork/download my files keep in your git hub master branch tehn create account in HEROKU and configure with github then deploy you will get deployed web link as shown
 ### https://mystaticwebsite-link.herokuapp.com/index.html
 
+## HEROKU deployment screen shorts
+create app and search your github repo as sown below and otherize
+![heroku](https://user-images.githubusercontent.com/41565179/109797653-bd8f4880-7c3f-11eb-9c59-cfc8e1cc793f.png)
+
+
+
+
 
