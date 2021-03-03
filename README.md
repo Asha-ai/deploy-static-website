@@ -1,2 +1,10 @@
-# staticwebwithheroku
-Deploy static website using Heroku 
+# RoadMap
+### Deploy static website using Heroku
+### use simple PHP wrap as swon in index.php
+### keep all your index.html page and other images in a folder and upload into github main branch 
+### create HEROKU paid/free account, then configure github in HEROKU finally deploy the static website
+### HEROKU is pretty easy to deploy and manage websites and other apps
+## Conclusion
+Just fork/download my files keep in your git hub master branch tehn create account in HEROKU and configure with github then deploy you will get deployed web link as shown
+### https://mystaticwebsite-link.herokuapp.com/index.html
+
